@@ -27,3 +27,7 @@ This script would be able to be used by any user who understands the Numba CUDA 
 4. CPU vs GPU benchmark
 5. ImageJ vs Numba/PIL benchmark
 
+Hypothesis:
+1. Due the quantity of cores (CUDA) and the main purpose of a GPU (Graphics Power Unit), the image processing using NVIDIA GPU's will reduce the processing time and increase the RAM/VRAM memory efficiency with respect to the use of CPU's.
+2. The use of Python to estimate the dissipation rate of vortices and downwash by calculating the pressure and change of intensity of pixels when changing through the Y axis (Downwash goes down in the negative Y axis)
+
