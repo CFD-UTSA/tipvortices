@@ -1,4 +1,7 @@
 # Final Project - Tip Vortices Schlieren Image Processing using GPU
+
+![](M100P1_Butane0001.gif)
+
 Be aware this code might need the use of a NVIDIA GPU with CUDA capabilities.
 
 Data Allocation: https://drive.google.com/drive/folders/1Fol3tnrV2WKfaaPOs4lknffI7Gg8uT-1?usp=sharing
