@@ -1,4 +1,4 @@
-# Final Project - DOGO-TVSIP (Tip Vortices Schlieren Image Processing using GPU)
+# Final Project - DRB-TVSIP (Tip Vortices Schlieren Image Processing using GPU)
 
 ![](M100P1_Butane0001.gif)
 
