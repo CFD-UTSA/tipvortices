@@ -1,4 +1,4 @@
-# Final Project - DRB-TVSIP (Tip Vortices Schlieren Image Processing using GPU)
+# Final Project - DB&RB-TVSIP (Tip Vortices Schlieren Image Processing using GPU)
 
 ![](M100P1_Butane0001.gif)
 
