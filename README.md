@@ -9,6 +9,8 @@
 
 ### Data Allocation: https://drive.google.com/drive/folders/1Fol3tnrV2WKfaaPOs4lknffI7Gg8uT-1?usp=sharing
 
+### Import the Environment "fp_brun_daniel" into Anaconda. All packages have been installed. Make sure to check compatibility. Only tested for Windows 10
+
 Specific/Exotic/Special Packages:
 
 1. ImageJ: a Java-based image processing program developed at the National Institutes of Health and the Laboratory for Optical and Computational Instrumentation (LOCI, University of Wisconsin).
