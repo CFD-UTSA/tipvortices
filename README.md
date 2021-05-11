@@ -1,6 +1,8 @@
 # Final Project - DB&RB-TVSIP (Tip Vortices Schlieren Image Processing using GPU)
 
-![](M100P1_Butane0001.gif)
+<p align="center">
+  <![](M100P1_Butane0001.gif)>
+</p>
 
 Be aware this code might need the use of a NVIDIA GPU with CUDA capabilities.
 
